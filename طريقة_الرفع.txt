@@ -1,0 +1,11 @@
+طريقة الرفع السريع:
+
+1- روح github.com وانشئ repo جديد
+2- اضغط Add file > Upload files
+3- ارفع index.html الموجود في هذا الفولدر
+4- بعد الرفع روح Settings > Pages > Branch: main - Save
+5- بعد دقيقة هيظهر اللينك
+
+لو عايز تغير الباسورد، افتح index.html وابحث عن:
+const LOGIN_USER = 'qc', LOGIN_PASS = '1642'
+وغيرهم.
